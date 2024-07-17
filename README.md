@@ -52,3 +52,7 @@ To get started with this project:
 1. Open the `HR Dashboard.pbix` file in Power BI Desktop.
 2. Review the data model and dashboards.
 3. Customize the visuals and metrics as needed for your specific HR analysis.
+
+## 📸 Screenshots
+Screenshot of the dashboard and visualizations to illustrate key insights and features.
+![HR Dashboard](https://github.com/user-attachments/assets/c1e15ff0-ecec-4c29-bb2b-1ecbf7506a00)
